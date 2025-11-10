@@ -66,7 +66,7 @@ There is a need for a **smart, digital waste management solution** that enables 
 | **Institute** | MMCOE |
 | **Department** | Information Technology |
 | **Academic Year** | 2025–26 |
-| **Guide / Mentor** | Mrs. P . Joshi |
+| **Guide / Mentor** | Mrs. P. S . Joshi |
 
 ------------------------------------------------------------------------------
 
