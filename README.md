@@ -10,7 +10,7 @@ A smart waste management web app that allows citizens to report garbage, upload 
 ---
 
 ## 🖼️ Preview  
-![SwachhaRakshak Screenshot](https://cybersensei09.github.io/IT1-A14/screenshot.png)
+![SwachhaRakshak Screenshot](screenshot.png)
 
 ---
 
